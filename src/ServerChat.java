@@ -9,6 +9,8 @@ public class ServerChat {
     private static ServerSocket server;
     private static Socket socket;
 
+
+
     public static void main(String[] args) {
         try {
             server = new ServerSocket(PORT);
