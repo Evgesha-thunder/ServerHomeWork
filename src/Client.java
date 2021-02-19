@@ -7,6 +7,7 @@ import java.net.Socket;
 import java.net.UnknownHostException;
 import java.util.Scanner;
 
+
     public class Client {
         private static final int PORT = 8190;
         private static Socket socket;
